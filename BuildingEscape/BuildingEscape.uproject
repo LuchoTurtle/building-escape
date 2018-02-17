@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.18",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "BuildingEscape",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd4f21ee83419a37051e1c116efa56455f9874dbc5f97d8d063ec89abc239ee
+size 206
