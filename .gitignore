@@ -6,8 +6,8 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent/
-BuildingEscape/Content/Assets/
+BuildingEscape/Content/*
+!BuildingEscape/Content/Maps
 
 ##########################
 # VS Generated Files #
