@@ -14,6 +14,6 @@ Have fun! :+1:
 
 For the time being, while outlining the map, I have a wide range of assets at my disposal. However, these take up a bit too much of disk space and, given Git's strict file (and repo) size policies, it's impossible to push these assets directly. Therefore, after cloning this repo, to navigate through the project properly, you need to download the folder in this [link](https://www.dropbox.com/sh/umjihmz8s2thev7/AACJpQ5lUh9Cv6NYqTLbmoyha?dl=0).
 
-After the download is complete, place the folder you just downloaded **in** the Content folder of the cloned project.
+After the download is complete, place the folders you just downloaded **in** the Content folder of the cloned project.
 
 > Please, note this is a **temporary** solution. I'm aware of Git LFS and I'll plan to use it *after* pruning the repo and discarding unnecessary assets within the project folders. 
