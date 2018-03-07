@@ -8,6 +8,12 @@ I'll be adding stuff to this repo and updating the README file along the way as 
 
 Have fun! :+1:
 
+## Theme and concept art
+
+This small game was drafted during heavy studying sessions while listening to Lo-Fi music. As cliché as it sounds, this served great inspiration for the enviromnent and overall theme of the game, as it heavily relies on lightning and landscapes such the one found below
+
+![](https://github.com/LuchoTurtle/BuildingEscape/blob/master/rainy-gif.gif)
+![](https://github.com/LuchoTurtle/BuildingEscape/blob/master/rainy-tokyo.jpg)
 
 
 ### Cloning the repo
