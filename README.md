@@ -12,9 +12,10 @@ Have fun! :+1:
 
 This small game was drafted during heavy studying sessions while listening to Lo-Fi music. As cliché as it sounds, this served great inspiration for the environment and overall theme of the game, as it heavily relies on lightning and landscapes such the one found below
 
-![](https://github.com/LuchoTurtle/BuildingEscape/blob/master/rainy-gif.gif)
-![](https://github.com/LuchoTurtle/BuildingEscape/blob/master/rainy-tokyo.jpg)
-
+<p float="left">
+  <img src="/rainy-gif.gif" width=400px />
+  <img src="/rainy-tokyo.jpg" width=400px  /> 
+</p>
 
 ### Cloning the repo
 
