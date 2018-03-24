@@ -10,7 +10,7 @@ Have fun! :+1:
 
 ## Theme and concept art
 
-This small game was drafted during heavy studying sessions while listening to Lo-Fi music. As cliché as it sounds, this served great inspiration for the environment and overall theme of the game, as it heavily relies on lightning and landscapes such the one found below
+This small game was drafted during heavy studying sessions while listening to Lo-Fi music. As cliché as it sounds, this served great inspiration for the environment and overall theme of the game, as it heavily relies on lightning and landscapes such the ones found below
 
 <p float="left">
   <img src="/rainy-gif.gif" width=400px />
