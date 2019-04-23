@@ -1,4 +1,4 @@
-# Building Escape Game
+# Building Escape Game [ON HOLD]
 
 ## What is this
 As part of my journey to learn about the Unreal Engine, this is a game where the main goal is quite simple (which is blatantly obvious in the the title as well): *escape the building*. Only we're *not* escaping a building but we're narrowing down to your own apartment. 
